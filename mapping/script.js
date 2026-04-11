@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let m=map.value.split('\n').length;res.innerText=`Mappings: ${m}`;}

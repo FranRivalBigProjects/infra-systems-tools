@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let r=+resources.value;if(!r){res.innerText='Enter value';return;}res.innerText=`Provisioned: ${r}`;}
